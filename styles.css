@@ -25,6 +25,9 @@ body {
   text-align: center;
   line-height: 130%;
 }
+span{
+  color: cyan;
+}
 
 table {
   background-color: rgba(227, 225, 233, 0.3);
@@ -37,6 +40,7 @@ table {
 th {
   background-color: rgba(58, 189, 201, 0.6);
   color: white;
+  text-align: center;
 }
 
 th,
